@@ -1,1 +1,2 @@
 This is the content 1 for chapter3.txt.
+checking out branching in git 

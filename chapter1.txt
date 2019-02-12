@@ -1,1 +1,2 @@
-Apna Time aega, Tu nanga hi to aaya tha ghanta leke jaega
+Apna Time aega, Tu nanga hi to aaya tha ghanta leke jaega.
+checking out branching in git 
